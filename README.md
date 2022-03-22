@@ -50,17 +50,17 @@ Enter goal location point and orientation[x,y,theta](eg: if (115,185,60), then e
 ```
 ## Output
 **Test case 1:**
-Step size: 5
-Radius: 5
-Start location: 10 10 60
-Goal location: 350 220 60
+Step size: 5,
+Radius: 5,
+Start location: 10 10 60,
+Goal location: 350 220 60,
 Visualization video: [Test case 1](https://youtu.be/5aQ9GAvQfFs).
 ![Optimal_path_testcase1](/outputs/Optimal_path_testcase1.png?raw=true)
 
 **Test case 2:**
-Step size: 10
-Radius: 5
-Start location: 10 10 0
-Goal location: 100 240 0
+Step size: 10,
+Radius: 5,
+Start location: 10 10 0,
+Goal location: 100 240 0,
 Visualization video: [Test case 2](https://youtu.be/zyopxe8h77s).
 ![Optimal_path_testcase2](/outputs/Optimal_path_testcase2.png?raw=true)
